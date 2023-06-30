@@ -135,6 +135,28 @@
                     </div>
 
                 </div>
+                <div class="sum-price-coupon" id="coupon-row">
+                    <div class="coupon-form">
+                        <select type="text" class="form-control" name="coupon_id">
+                            @foreach(get_not_used_coupons() as $coupon)
+                                <option value="{{$coupon->id}}" >
+                                    {{$coupon->title}} - (قابل استفاده تا {{JDate::forge($coupon->expire_at)->format("%Y/%m/%d")}})
+                                </option>
+                            @endforeach
+                        </select>
+                        <a href="#" class="btn submit" title="اعمال تخفیف">اعمال کوپن</a>
+                        <div class="notes danger-discount">
+                            <div class="ttl"></div>
+                        </div>
+                    </div>
+                    <div class="coupon-details coupon">
+                        <span>مبلغ کاسته شده از سفارش </span>
+                        <span class="double-point">: </span>
+                        <span class="text"> تومان</span>
+                        <span class="price-data">0</span>
+                    </div>
+
+                </div>
                 <div class="sum-price-tax tax">
                     <span>مالیات و ارزش افزوده </span>
                     <span class="double-point">: </span>

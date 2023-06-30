@@ -9,6 +9,7 @@ define('local_cart_service', ['jquery', 'jq_cookie', 'tools', 'template', 'under
         const knownRows = {};
         let cartData = jQuery.cookie(cartCookie) || {};
         let extraDiscountAmount = 0;
+        let couponAmount = 0;
 
         let LocalCartService = null;
         return LocalCartService = {
@@ -378,16 +379,18 @@ define('local_cart_service', ['jquery', 'jq_cookie', 'tools', 'template', 'under
                 const afterDiscountPriceContainer = jQuery('.invoice-sum-container .after-discount .price-data');
                 const taxPriceContainer = jQuery('.invoice-sum-container .tax .price-data');
                 const discountPriceContainer = jQuery('.invoice-sum-container .discount .price-data');
+                const couponAmountContainer = jQuery('.invoice-sum-container .coupon .price-data');
 
                 if (beforeDiscountPriceContainer.length === 0 || afterDiscountPriceContainer.length === 0) return false;
 
                 beforeDiscountPriceContainer.text(`${finalPriceBeforeDiscount}`);
-                taxPriceContainer.text(`${parseInt((finalPriceAfterDiscount - extraDiscountAmount) * 0.09)}`);
+                taxPriceContainer.text(`${parseInt((finalPriceAfterDiscount - (extraDiscountAmount + couponAmount)) * 0.09)}`);
                 if (window.currentPage === "product-list")
-                    afterDiscountPriceContainer.text(`${parseInt(finalPriceAfterDiscount - extraDiscountAmount)}`);
+                    afterDiscountPriceContainer.text(`${parseInt(finalPriceAfterDiscount - (extraDiscountAmount + couponAmount))}`);
                 else
-                    afterDiscountPriceContainer.text(`${parseInt((finalPriceAfterDiscount - extraDiscountAmount) * 1.09)}`);
+                    afterDiscountPriceContainer.text(`${parseInt((finalPriceAfterDiscount - (extraDiscountAmount + couponAmount)) * 1.09)}`);
                 discountPriceContainer.text(`${parseInt(finalPriceBeforeDiscount - finalPriceAfterDiscount + extraDiscountAmount)}`);
+                couponAmountContainer.text(`${parseInt(couponAmount)}`);
 
                 if (finalPriceAfterDiscount === finalPriceBeforeDiscount && window.currentPage !== "cart") {
                     beforeDiscountPriceContainer.fadeOut();
@@ -424,6 +427,11 @@ define('local_cart_service', ['jquery', 'jq_cookie', 'tools', 'template', 'under
 
             setExtraDiscountAmount: function (amount) {
                 extraDiscountAmount = amount;
+                LocalCartService.calculateInvoice();
+            },
+
+            setCouponAmount : function(amount) {
+                couponAmount = amount;
                 LocalCartService.calculateInvoice();
             }
         };

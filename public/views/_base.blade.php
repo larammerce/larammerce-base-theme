@@ -86,6 +86,10 @@
                                     علاقه‌مندی‌ها</a>
                             </li>
                             <li>
+                                <a href="{{route('customer.coupon.index')}}" title="لیست کوپن ها">لیست
+                                    کوپن ها</a>
+                            </li>
+                            <li>
                                 <a class="virt-form" href="{{url('/logout')}}" data-method="post" title="خروج از سیستم">
                                     <span>خروج از سیستم</span> </a>
                             </li>

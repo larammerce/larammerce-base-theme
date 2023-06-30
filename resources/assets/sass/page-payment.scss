@@ -250,6 +250,75 @@
       }
     }
 
+    .sum-price-coupon {
+      border-top: 1px solid $color-border-2;
+      border-bottom: 1px solid $color-border-2;
+      @include flex();
+
+      span {
+        line-height: 70px;
+      }
+
+      .coupon-form {
+        margin: 15px 0;
+        flex: 0 0 50%;
+        position: relative;
+
+        .form-control {
+          padding-left: 70px;
+        }
+
+        .btn.submit {
+          position: absolute;
+          left: 0;
+          top: 0;
+          background: $color-main-1;
+          color: #fff;
+          font-size: 14px;
+          font-weight: bold;
+        }
+
+        .danger-coupon {
+          position: absolute;
+          margin: 0;
+          right: 0;
+          font-size: 10px;
+          color: red;
+          line-height: 14px;
+          bottom: -14px;
+        }
+
+        @media(max-width: 575.98px) {
+          margin-bottom: 0;
+          .form-control {
+            line-height: 33px;
+            padding-right: 10px;
+            font-size: 12px;
+          }
+          .btn.submit {
+            line-height: 33px;
+            padding: 0 10px;
+            font-size: 12px;
+          }
+        }
+      }
+
+      .coupon-details {
+        flex: 0 0 50%;
+        padding-right: 20px;
+      }
+
+      @media(max-width: 575.98px) {
+        flex-wrap: wrap;
+        .coupon-form, .coupon-details {
+          flex-basis: 100%;
+        }
+        .coupon-details {
+          padding: 0;
+        }
+      }
+    }
+
     .sum-price-before-discount {
       span {
         line-height: 40px;
