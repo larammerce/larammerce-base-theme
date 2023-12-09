@@ -1,7 +1,7 @@
 @extends('_mail_base')
 
 @section('title')
-    اطلاع رسانی سبد خرید در کبت لاین
+    اطلاع رسانی سبد خرید در لارامرس
 @endsection
 
 @section('subject')

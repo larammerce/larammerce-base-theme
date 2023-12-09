@@ -9,12 +9,12 @@
     <meta name="description" content="{{ $web_page->getSeoDescription() }}">
     <meta name="keywords" content="{{ $web_page->getSeoKeywords() }}">
     <meta name="category" content="">
-    <meta itemprop="name" content="{{ $web_page->getSeoTitle() }} - کیت‌لاین">
+    <meta itemprop="name" content="{{ $web_page->getSeoTitle() }} - لارامرس">
     <meta itemprop="description" content="{{ $web_page->getSeoDescription() }}">
 
     <meta itemprop="image" content="/HCMS-assets/img/logo.svg">
     <meta property="og:url" content="{{ $web_page->getFrontUrl() }}">
-    <meta property="og:title" content="{{ $web_page->getSeoTitle() }} - کیت‌لاین">
+    <meta property="og:title" content="{{ $web_page->getSeoTitle() }} - لارامرس">
     <meta property="og:image" content="/HCMS-assets/img/logo.svg">
     <meta property="og:description" content="{{ $web_page->getSeoDescription() }}">
     <meta property="og:type" content="website">
@@ -50,7 +50,7 @@
                     </div>
                 </div>
                 <div class="main-page-banner-small">
-                    <img alt="تجهیزات آشپزخانه" class="img-fluid" hct-content="banner_slider" hct-content-type="image"
+                    <img alt="لارامرس" class="img-fluid" hct-content="banner_slider" hct-content-type="image"
                          hct-title='بنر کنار اسلایدر'/>
                     <a href="" class="absolute-link" id="banner_slider"
                        hct-content="banner_link_slider" hct-content-type="link" hct-title='لینک بنر کنار اسلایدر'>
@@ -463,7 +463,7 @@
                 <div class="banner-full banner-supplier">
                     <video autoplay muted poster="/HCMS-assets/video/poster3.jpg" loop
                            hct-content="video_1" hct-content-type="video" hct-title='کاربرد ابزارها'>
-                        <source data-src="https://kitline.com/uploads/not_categorized/1605941622.1537rZvOnYsLDS/avc_Sequence-01.mp4"
+                        <source data-src="https://larammerce.com/uploads/not_categorized/1605941622.1537rZvOnYsLDS/avc_Sequence-01.mp4"
                                 type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
@@ -505,7 +505,7 @@
                             </div>
                         @endforeach
                     </div>
-                    <a href="https://kitline.com/mag/" class="btn btn-more">مشاهده همه مطالب</a>
+                    <a href="https://larammerce.com/mag/" class="btn btn-more">مشاهده همه مطالب</a>
                 </div>
             </div>
         </div>
