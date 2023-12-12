@@ -62,8 +62,8 @@
                         <i class="icon-phone"></i>
                     </div>
                     <div class="desc number" hct-content="phone_number" hct-content-type="text" hct-title='تلفن'>
-                        ۰۲۱-۲۲۶۹۴۹۹۹<br/>
-                        ۰۲۱-۷۲۱۱۳
+                        ۰۲۱-۰۰۰۰۰۰۰۰<br/>
+                        ۰۲۱-۰۰۰۰۰
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4 hidden-xs">

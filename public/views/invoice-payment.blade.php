@@ -224,7 +224,7 @@
                     <div class="alert alert-max">
                         <strong>نکته :</strong> مبلغ خرید شما بالای ۱۰۰ میلیون تومان است. لطفا جهت ثبت نهایی سفارش خود با
                         پشتیبانی لارامرس
-                        به شماره ۷۲۱۱۳-۰۲۱ تماس حاصل فرمایید.
+                        به شماره ۰۰۰۰۰-۰۲۱ تماس حاصل فرمایید.
                     </div>
                 @endif
                 <button href="" role="button" class="btn btn-download"><i class="fa fa-download" aria-hidden="true"></i>

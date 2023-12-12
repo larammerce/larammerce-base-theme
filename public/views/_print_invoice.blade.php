@@ -16,7 +16,7 @@
         <div class="row date-row">
             <div class="col-md-6 pr-md-0"> تاریخ:&nbsp;&nbsp;&nbsp;
                 <span class="date-span persian-digit">{{get_current_date()}}</span></div>
-            <div class="col-md-6 numerical-data pl-md-0">larammerce.com &nbsp;&nbsp;&nbsp; 021_72113</div>
+            <div class="col-md-6 numerical-data pl-md-0">larammerce.com &nbsp;&nbsp;&nbsp; 021_00000</div>
             {{--                    <div class="col-md-6pr-md-0"> larammerce.com</div>--}}
         </div>
         <div class="product-list">

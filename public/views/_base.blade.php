@@ -138,7 +138,7 @@
                         </li>
                     @endif
                 </ul>
-                <div class="support-phone">شماره پشتیبانی: ۷۲۱۱۳-۰۲۱
+                <div class="support-phone">شماره پشتیبانی: ۰۰۰۰۰-۰۲۱
                     <i class="fa fa-close hidden-xl hidden-lg"></i>
                 </div>
             </div>
@@ -358,7 +358,7 @@
                             تلفن:
                             <br/>
                             {{--<span>۰۲۱-۲۲۲۳۵۶۲۳</span>--}}
-                            <span>۰۲۱-۷۲۱۱۳</span>
+                            <span>۰۲۱-۰۰۰۰۰</span>
                         </p>
                         <p>
                             ایمیل:
