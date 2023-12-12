@@ -166,7 +166,7 @@
                 @if($invoice->shipment_cost > 0)
                     <div class="info-row">
                         <div class="icon"><i class="icon-accesories" aria-hidden="true"></i></div>
-                        <div>این سفارش از طریق تحويل کیت لاین با مبلغ <span
+                        <div>این سفارش از طریق تحويل لارامرس با مبلغ <span
                                     class="price-data">{{$invoice->shipment_cost / 10}}</span> تومان به شما تحویل داده
                             خواهد
                             شد.(ارسال
@@ -216,8 +216,8 @@
                 @if($invoice->sum >= get_max_transaction_amount())
                     <div class="alert alert-max">
                         <strong>نکته :</strong> مبلغ خرید شما بالای ۱۰۰ میلیون تومان است. لطفا جهت ثبت نهایی سفارش خود با
-                        پشتیبانی کیت لاین
-                        به شماره ۷۲۱۱۳-۰۲۱ تماس حاصل فرمایید.
+                        پشتیبانی لارامرس
+                        به شماره ۰۰۰۰۰-۰۲۱ تماس حاصل فرمایید.
                     </div>
                 @endif
                 <button href="" role="button" class="btn btn-download"><i class="fa fa-download" aria-hidden="true"></i>

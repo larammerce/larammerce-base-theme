@@ -1,2 +1,2 @@
-export ECOMMERCE_BASE_PATH=/Users/arash/Projects/kitline/ecommerce
+export ECOMMERCE_BASE_PATH=/Users/arash/Projects/larammerce/ecommerce
 export PATH=/usr/local/php5/bin/:$PATH

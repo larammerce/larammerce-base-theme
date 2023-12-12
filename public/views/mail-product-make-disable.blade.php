@@ -1,7 +1,7 @@
 @extends('_mail_base')
 
 @section('title')
-    ناموجود شدن محصول در کیت لاین
+    ناموجود شدن محصول در لارامرس
 @endsection
 
 @section('subject')

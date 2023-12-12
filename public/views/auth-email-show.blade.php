@@ -1,7 +1,7 @@
 @extends('_base')
 
 @section('title')
-    ثبت‌نام یا ورود -
+    ثبت ‌نام یا ورود -
 @endsection
 
 @section('meta_tags')
@@ -18,7 +18,7 @@
     <script>window.currentPage = "auth-email-auth"</script>
     <div class="container mobile-auth">
         <div class="icon-title">
-            <i class="icon-login" aria-hidden="true"></i><span>ورود‌ یا ثبت‌نام</span>
+            <i class="icon-login" aria-hidden="true"></i><span>ورود‌ یا ثبت ‌نام</span>
         </div>
         <div class="extra-link-container">
             <a href="{{route('customer-auth.show-auth', 'mobile')}}" class="extra-link pull-left" title="ورود یا ثبت‌نام از طریق تلفن همراه">
