@@ -7,6 +7,7 @@
     <meta name="google-site-verification" content="3d5HFyIlBaepmfw7WpJCjngHOIp73AN1uxx6t_Gj9uo"/>
     <title>@yield('title')فروشگاه اینترنتی لوازم رستوران کیت‌لاین</title>
 
+    <!-- Test comment by Mohammad. -->
     <meta name="robots" content="index,follow">
     <meta name="googlebot" content="index,follow">
     <meta name="ICBM" content="35.793587, 51.455294">
