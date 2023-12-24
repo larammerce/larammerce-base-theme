@@ -21,8 +21,8 @@
     <link rel="icon" href="/HCMS-assets/img/fav.ico" sizes="192x192" type="image/png">
 
     <!-- External CSS -->
-    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-23.css">
-    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-23.css">
+    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-24.css">
+    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-24.css">
 
 </head>
 <body data-direction="rtl">
@@ -53,7 +53,7 @@
 </div>
 
 
-<script data-main="/HCMS-assets/js/all-23-12-23" src="/HCMS-assets/js/lib/require.js"></script>
+<script data-main="/HCMS-assets/js/all-23-12-24" src="/HCMS-assets/js/lib/require.js"></script>
 
 @yield('extra_js')
 

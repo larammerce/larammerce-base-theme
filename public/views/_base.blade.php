@@ -48,8 +48,8 @@
 
 
     <!-- External CSS -->
-    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-23.css">
-    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-23.css">
+    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-24.css">
+    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-24.css">
 
     <script>window.csrfToken = '{{ csrf_token() }}'</script>
     <script>window.siteEnv = {!! get_configurations(true, "SITE") !!}</script>
@@ -574,7 +574,7 @@
 </a>
 
 
-<script data-main="/HCMS-assets/js/all-23-12-23" src="/HCMS-assets/js/lib/require.js"></script>
+<script data-main="/HCMS-assets/js/all-23-12-24" src="/HCMS-assets/js/lib/require.js"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121055133-1"></script>
