@@ -50,8 +50,8 @@
 
 
     <!-- External CSS -->
-    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-24.css">
-    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-24.css">
+    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-25.css">
+    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-25.css">
 
     <style>
         body {

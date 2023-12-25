@@ -48,8 +48,8 @@
 
 
     <!-- External CSS -->
-    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-24.css">
-    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-24.css">
+    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-25.css">
+    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-25.css">
 
     <script>window.csrfToken = '{{ csrf_token() }}'</script>
     <script>window.siteEnv = {!! get_configurations(true, "SITE") !!}</script>
@@ -87,7 +87,7 @@
                 </button>
                 <a class="navbar-brand-mobile hidden-xl hidden-lg hidden-md" href="/"
                    title="لارامرس">
-                    <img src="/HCMS-assets/img/logo.svg" alt="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،">
+                    <img src="/HCMS-assets/img/logo-larammerce.svg" alt="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،">
                 </a>
                 <ul class="col">
                     @if(is_customer())
@@ -321,7 +321,7 @@
                 </div>
                 <div class="col-lg-2 col-md-3 hidden-sm hidden-xs brand-wrapper order-lg-3 order-md-2">
                     <a class="navbar-brand" href="/" title="صفحه اصلی">
-                        <img src="/HCMS-assets/img/logo.svg" class="img-fluid"
+                        <img src="/HCMS-assets/img/logo-larammerce.svg" class="img-fluid"
                              alt="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،">
                     </a>
                 </div>
@@ -574,7 +574,7 @@
 </a>
 
 
-<script data-main="/HCMS-assets/js/all-23-12-24" src="/HCMS-assets/js/lib/require.js"></script>
+<script data-main="/HCMS-assets/js/all-23-12-25" src="/HCMS-assets/js/lib/require.js"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121055133-1"></script>

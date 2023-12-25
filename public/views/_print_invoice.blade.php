@@ -6,7 +6,7 @@
                 <div class="header-factor-title">پیش فاکتور فروش کالا</div>
             </div>
             <div class="col-md-5">
-                <img src="/HCMS-assets/img/logo.svg" class="img-fluid"
+                <img src="/HCMS-assets/img/logo-larammerce.svg" class="img-fluid"
                      alt="لارامرس"
                      style="max-width:135px;">
             </div>

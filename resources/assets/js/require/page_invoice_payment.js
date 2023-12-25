@@ -124,8 +124,8 @@ if (window.currentPage === "invoice-payment") {
                 '    <link rel="icon" type="image/png" sizes="16x16" href="/HCMS-assets/img/favicon/logo.png">\n' +
                 '    <link rel="manifest" href="/HCMS-assets/img/favicon/site.webmanifest">\n' +
                 '    <link rel="mask-icon" href="/HCMS-assets/img/favicon/safari-pinned-tab.svg" color="#fabe3c">\n' +
-                '    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-24.css">\n' +
-                '    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-24.css">\n' +
+                '    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-25.css">\n' +
+                '    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-25.css">\n' +
                 '    <script>window.currentPage = "invoice-payment"</script>' +
                 '    <style>body{padding-top: 0}</style>' +
                 '</head>' +

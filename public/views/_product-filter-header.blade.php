@@ -21,10 +21,10 @@
         @endif
         <meta itemprop="name" content="{{ $web_page->getSeoTitle() }} - لارامرس">
         <meta itemprop="description" content="{{ $web_page->getSeoDescription() }}">
-        <meta itemprop="image" content="/HCMS-assets/img/logo.svg">
+        <meta itemprop="image" content="/HCMS-assets/img/logo-larammerce.svg">
         <meta property="og:url" content="{{ $web_page->getFrontUrl() }}">
         <meta property="og:title" content="{{ $web_page->getSeoTitle() }} - لارامرس">
-        <meta property="og:image" content="/HCMS-assets/img/logo.svg">
+        <meta property="og:image" content="/HCMS-assets/img/logo-larammerce.svg">
         <meta property="og:description" content="{{ $web_page->getSeoDescription() }}">
         <meta property="og:type" content="website">
     @else
@@ -34,10 +34,10 @@
             <meta name="category" content="{{ $directory->title }}">
             <meta itemprop="name" content="{{ $directory->title }} - larammerce">
             <meta itemprop="description" content="{{ $directory->description }}">
-            <meta itemprop="image" content="/HCMS-assets/img/logo.svg">
+            <meta itemprop="image" content="/HCMS-assets/img/logo-larammerce.svg">
             <meta property="og:url" content="{{ $directory->getFrontUrl() }}">
             <meta property="og:title" content="{{ $directory->title }} - larammerce">
-            <meta property="og:image" content="/HCMS-assets/img/logo.svg">
+            <meta property="og:image" content="/HCMS-assets/img/logo-larammerce.svg">
             <meta property="og:description" content="{{ $directory->description }}">
             <meta property="og:type" content="website">
         @endif

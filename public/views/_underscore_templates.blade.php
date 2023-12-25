@@ -389,7 +389,7 @@
     <div class="no-result-desc"><span>«</span>نتیجه‌ای یافت نشد<span>»</span></div>
             <!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-         viewBox="0 0 150 52" style="enable-background:new 0 0 150 52;" xml:space="preserve">
+        height="200" viewBox="0 0 220 52" style="enable-background:new 0 0 150 52;" xml:space="preserve">
 <style type="text/css">
     .st0{enable-background:new    ;}
     .st1{fill:#FF2D20;}
