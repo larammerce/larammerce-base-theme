@@ -1,3 +1,3 @@
 {{$customerName}} عزیز
-{{$productTitle}} در کیت لاین موجود شده است .
+{{$productTitle}} در لارامرس موجود شده است.
 {{--مشاهده محصول : {{$productUrl}}--}}

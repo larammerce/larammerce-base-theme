@@ -10,13 +10,13 @@
     <meta name="description" content="{{ $web_page->getSeoDescription() }}">
     <meta name="keywords" content="{{ $web_page->getSeoKeywords() }}">
     <meta name="category" content="">
-    <meta itemprop="name" content="{{ $web_page->getSeoTitle() }} - کیت‌لاین">
+    <meta itemprop="name" content="{{ $web_page->getSeoTitle() }} - لارامرس">
     <meta itemprop="description" content="{{ $web_page->getSeoDescription() }}">
 
-    <meta itemprop="image" content="/HCMS-assets/img/logo.svg">
+    <meta itemprop="image" content="/HCMS-assets/img/logo-larammerce.svg">
     <meta property="og:url" content="{{ $web_page->getFrontUrl() }}">
-    <meta property="og:title" content="{{ $web_page->getSeoTitle() }} - کیت‌لاین">
-    <meta property="og:image" content="/HCMS-assets/img/logo.svg">
+    <meta property="og:title" content="{{ $web_page->getSeoTitle() }} - لارامرس">
+    <meta property="og:image" content="/HCMS-assets/img/logo-larammerce.svg">
     <meta property="og:description" content="{{ $web_page->getSeoDescription() }}">
     <meta property="og:type" content="website">
 @endsection
@@ -464,7 +464,7 @@
                     </div>
                 @endforeach
             </div>
-            {{--<a href="https://kitline.com/mag/" class="btn btn-more">مشاهده همه مطالب</a>--}}
+            {{--<a href="https://larammerce.com/mag/" class="btn btn-more">مشاهده همه مطالب</a>--}}
         </div>
     </section>
 

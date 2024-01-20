@@ -120,12 +120,12 @@ if (window.currentPage === "invoice-payment") {
                 '    <meta name="author" content="Hinza">\n' +
                 '    <meta http-equiv="X-UA-Compatible" content="IE=edge">\n' +
                 '    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.6, initial-scale=1.0"/>\n' +
-                '    <link rel="icon" type="image/png" sizes="32x32" href="/HCMS-assets/img/favicon/favicon-32x32.png">\n' +
-                '    <link rel="icon" type="image/png" sizes="16x16" href="/HCMS-assets/img/favicon/favicon-16x16.png">\n' +
+                '    <link rel="icon" type="image/png" sizes="32x32" href="/HCMS-assets/img/favicon/logo.png">\n' +
+                '    <link rel="icon" type="image/png" sizes="16x16" href="/HCMS-assets/img/favicon/logo.png">\n' +
                 '    <link rel="manifest" href="/HCMS-assets/img/favicon/site.webmanifest">\n' +
                 '    <link rel="mask-icon" href="/HCMS-assets/img/favicon/safari-pinned-tab.svg" color="#fabe3c">\n' +
-                '    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-11-23.css">\n' +
-                '    <link rel="stylesheet" href="/HCMS-assets/css/app-23-11-23.css">\n' +
+                '    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-25.css">\n' +
+                '    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-25.css">\n' +
                 '    <script>window.currentPage = "invoice-payment"</script>' +
                 '    <style>body{padding-top: 0}</style>' +
                 '</head>' +
