@@ -350,6 +350,7 @@
     <p class="title-count-limit"><%- count_limit_basket %></p>
 </script>
 
+
 <script type="text/template" id="printable-invoice-row">
     <div class="row m-0 product-box pd-list-item">
         <div class="col col-lg-1 col-md-1 col-sm-1 col-1 p-0">
