@@ -1,7 +1,7 @@
 @extends('_mail_base')
 
 @section('title')
-    تایید حساب ایمیل در کیت لاین
+    تایید حساب ایمیل در ابزارمبل مهدی(خواجه لو)
 @endsection
 
 @section('subject')
@@ -14,7 +14,7 @@
 
     <div style="text-align: right;" align="right">
         <p style="direction: rtl;text-align: justify ;font-size: 14px; line-height: 20px; margin: 20px 0 0; padding: 0;">
-            برای تایید ایمیل صحت ایمیل‌تان به کیت‌لاین روی دکمه زیر کلیک کنید ،
+            برای تایید ایمیل صحت ایمیل‌تان به ابزارمبل مهدی(خواجه لو) روی دکمه زیر کلیک کنید ،
             در صورتی که عملکرد دکمه تایید با مشکل مواجه است از لینک
             جایگزین برای نهایی کردن تایید خود استفاده کنید.
         </p>

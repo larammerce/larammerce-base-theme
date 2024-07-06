@@ -17,7 +17,7 @@
     <script>window.currentPage = "register"</script>
     <div class="container register">
         <div class="icon-title">
-            <i class="icon-sign-up" aria-hidden="true"></i><span>ثبت نام در کیت لاین</span>
+            <i class="icon-sign-up" aria-hidden="true"></i><span>ثبت نام در ابزارمبل مهدی(خواجه لو)</span>
         </div>
         <div class="top-line-content">
             @if($errors->has('g-recaptcha-response'))

@@ -18,7 +18,7 @@
     <script>window.currentPage = "mobile-register"</script>
     <div class="container mobile-auth">
         <div class="icon-title">
-            <i class="fa fa-question" aria-hidden="true"></i><span>ثبت نام در کیت‌لاین</span>
+            <i class="fa fa-question" aria-hidden="true"></i><span>ثبت نام در ابزارمبل مهدی(خواجه لو)</span>
         </div>
         <div class="top-line-content">
             <form class="" action="{{route("customer-auth.do-register", ['mobile', $value])}}" method="post">

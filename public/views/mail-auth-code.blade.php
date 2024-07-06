@@ -1,7 +1,7 @@
 @extends('_mail_base')
 
 @section('title')
-    کد یکبار مصرف در کیت لاین
+    کد یکبار مصرف در ابزارمبل مهدی(خواجه لو)
 @endsection
 
 @section('subject')

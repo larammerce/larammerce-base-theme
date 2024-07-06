@@ -15,9 +15,9 @@
     <div class="about">
 
         <section class="about-top-video">
-            <video autoplay muted poster="/HCMS-assets/video/poster3.jpg" loop
+            <video autoplay muted poster="../HCMS-assets/video/poster.jpg" loop
                    hct-content="video_1" hct-content-type="video" hct-title='ویدئو درباره ما'>
-                <source src="/HCMS-assets/video/kitline3.mp4" type="video/mp4">
+                <source src="../HCMS-assets/video/abzarmoblmahdi.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
             <button type="button" class="btn sound-btn">
@@ -28,14 +28,12 @@
         <section class="container about-content">
             <div class="row about-row">
                 <div class="col-lg-5 col-md-6 col-sm-8 col-xs-12 about-text">
-                    <img src="/HCMS-assets/img/logo-b.svg" alt="kitline logo" class="logo"/>
+                    <img src="/HCMS-assets/img/logo-b.svg" alt="abzarmoblmahdi logo" class="logo"/>
                     <div class="motto" hct-content="motto" hct-content-type="text" hct-title='شعار'>
-                        بشر به انگیزه در زندگی و کار پیش خواهد رفت...
+                        لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،
                     </div>
                     <div class="desc" hct-content="description_1" hct-content-type="rich_text" hct-title='انگیزه اول'>
-                        انگیزه‌ی پیدایش سایت کیت‌لاین فراهم آوردن آشپزخانه‌ی مجللی است که در دسترس است و هرچه بخواهید
-                        دارد. می‌توانید ابزاری را بردارید که سرآشپز گوردن رمضی در دست دارد و چاقوی مخصوص فیله کردن را در
-                        گوشت می‌سرانید. از نرمی و ثبات حرکت لذت ببرید.
+                        لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-6 col-sm-4 col-xs-12 about-illustration"></div>
@@ -44,20 +42,14 @@
                 <div class="col-lg-7 col-md-6 col-sm-4 col-xs-12 about-illustration"></div>
                 <div class="col-lg-5 col-md-6 col-sm-8 col-xs-12 about-text">
                     <div class="desc" hct-content="description_2" hct-content-type="rich_text" hct-title='انگیزه دوم'>
-                        انگیزه کیت‌لاین آن است که چاقو اگر می‌خواهید بخرید. ساعت‌ها پیاده در خیابان‌های دودگرفته و مزدحم
-                        پایین شهر و میانه‌ی شهر تهران سرنگردانید و سرانجام گیر چاقویی بیفتید که نه در دست سرآشپزان است و
-                        نه اساسا ضمانتی برای اصالتش است.
+                        لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،
                     </div>
                 </div>
             </div>
             <div class="row about-row">
                 <div class="col-lg-5 col-md-6 col-sm-8 col-xs-12 about-text">
                     <div class="desc" hct-content="description_3" hct-content-type="rich_text" hct-title='انگیزه سوم'>
-                        انگیزه کیت‌لاین بخشیدن آسایش خاطر به شماست که قیمت بهترین ابزار کار آشپزی و رستوران داری و هتل
-                        داریش منصفانه است ...
-                        بخشیدن آسایتش از آن که اگر رستوران دارید، در هر کجای این خاک که باشید ... حال در دورترین نقطه
-                        سیستان یا گیلان و یا کردستان،
-                        با گردشی راحت در سایت کیت‌لاین هرآنچه بخواهید برمیدارید.
+                        لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-6 col-sm-4 col-xs-12 about-illustration"></div>
@@ -66,8 +58,7 @@
                 <div class="col-lg-7 col-md-6 col-sm-4 col-xs-12 about-illustration"></div>
                 <div class="col-lg-5 col-md-6 col-sm-8 col-xs-12 about-text">
                     <div class="desc" hct-content="description_4" hct-content-type="rich_text" hct-title='انگیزه چهارم'>
-                        انگیزه کیت‌لاین آن است که اگر در سایت گشتید و وسیله‌ای دیدید که نمیشناختید، یا نمیدانستید که
-                        کاربرد درستش چیست، توضیح مختصر و مفیدی راجع به آن در اختیار شما قرار دهد.
+                        لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،
                     </div>
                 </div>
             </div>
@@ -79,17 +70,13 @@
                     <div class="row">
                         <div class="col-lg-5 col-md-5 col-sm-3 col-xs-12">
                             <div class="about-bold-pic">
-                                <img src="/HCMS-assets/img/kitchentech.svg" alt="kitchentech">
+                                <img src="/HCMS-assets/img/logo2.svg" width="100px" alt="abzarmoblmahdi">
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-7 col-sm-9 col-xs-12">
-                            <div class="desc" hct-content="kitchentech_desc" hct-content-type="rich_text"
-                                 hct-title='متن تک آشپزخانه'>
-                                سایت کیت‌لاین از دل شرکت رسام تک آشپزخانه Kitchentech با سابقه طولانی در تجهیز و برپایی
-                                از پایه تا پایان رستوران‌ها پدید آمده است. ما در این سایت از دانش فنی روز در تامین و
-                                معرفی ابزار تخصصی و کارا در صنعت غذا بهره گرفته‌ایم تا در کوتاه‌ترین زمان ممکن نیاز
-                                تجهیز رستوران و آشپزخانه‌ها را در کاملترین مجموعه تخصصی آنلاین به دست مدیران و صاحبان
-                                رستوران‌ها و هتل‌ها برسانیم.
+                            <div class="desc" hct-content="abzarmoblmahdi_desc" hct-content-type="rich_text"
+                                 hct-title='متن تک ابزارمبل مهدی(خواجه لو)'>
+                                لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،
                             </div>
                         </div>
                     </div>
@@ -99,10 +86,10 @@
 
         <section class="about-bottom-video">
             <div class="container">
-                <video poster="/HCMS-assets/video/poster2.png"
+                <video poster="../HCMS-assets/video/poster2.png"
                        hct-content="video_2" hct-content-type="video" hct-title='ویدئو درباره ما(پایین) '
                        aria-controls="true" controls>
-                    <source src="/HCMS-assets/video/Kitline2.mp4" type="video/mp4">
+                    <source src="/HCMS-assets/video/abzarmoblmahdi.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>

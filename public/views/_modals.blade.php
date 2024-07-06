@@ -136,8 +136,7 @@
                     <span class="modal-title">ثبت امتیاز</span>
                 </div>
                 <div class="modal-body">
-                    <div class="desc">با تشکر از همراهی شما با کیت لاین، امتیاز شما ما را در بهبود کیفیت و رشد خدمات
-                        یاری می کند.
+                    <div class="desc">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،
                     </div>
                     <div class="rating-content"></div>
                     <div class="form-group">
@@ -275,7 +274,7 @@
             </div>
             <div class="modal-body">
                 <p class="question">
-                    برای افزودن آیکون نسخه موبایل کیت لاین در مرورگر از نوار بالای صفحه آیکون <i
+                    برای افزودن آیکون نسخه موبایل ابزارمبل مهدی(خواجه لو) در مرورگر از نوار بالای صفحه آیکون <i
                             class="fa fa-lg fa-ellipsis-v"></i> انتخاب کرده و از منوی باز
                     شده گزینه add to home screen را انتخاب نمایید.
                 </p>
@@ -298,7 +297,7 @@
             </div>
             <div class="modal-body">
                 <p class="question">
-                    برای افزودن آیکون نسخه موبایل کیت لاین در مرورگر safary از نوار پایین صفحه، آیکون <img
+                    برای افزودن آیکون نسخه موبایل ابزارمبل مهدی(خواجه لو) در مرورگر safary از نوار پایین صفحه، آیکون <img
                             src="https://img.icons8.com/windows/32/000000/share-rounded.png" alt="icon"> انتخاب کرده و
                     از منوی باز
                     شده گزینه add to home screen را انتخاب نمایید.

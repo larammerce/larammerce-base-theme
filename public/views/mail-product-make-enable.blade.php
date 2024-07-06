@@ -1,7 +1,7 @@
 @extends('_mail_base')
 
 @section('title')
-    موجود شدن محصول در کیت لاین
+    موجود شدن محصول در ابزارمبل مهدی(خواجه لو)
 @endsection
 
 @section('subject')

@@ -9,12 +9,12 @@
     <meta name="description" content="{{ $web_page->getSeoDescription() }}">
     <meta name="keywords" content="{{ $web_page->getSeoKeywords() }}">
     <meta name="category" content="">
-    <meta itemprop="name" content="{{ $web_page->getSeoTitle() }} - کیت‌لاین">
+    <meta itemprop="name" content="{{ $web_page->getSeoTitle() }} - ابزارمبل مهدی(خواجه لو)">
     <meta itemprop="description" content="{{ $web_page->getSeoDescription() }}">
 
     <meta itemprop="image" content="/HCMS-assets/img/logo.svg">
     <meta property="og:url" content="{{ $web_page->getFrontUrl() }}">
-    <meta property="og:title" content="{{ $web_page->getSeoTitle() }} - کیت‌لاین">
+    <meta property="og:title" content="{{ $web_page->getSeoTitle() }} - ابزارمبل مهدی(خواجه لو)">
     <meta property="og:image" content="/HCMS-assets/img/logo.svg">
     <meta property="og:description" content="{{ $web_page->getSeoDescription() }}">
     <meta property="og:type" content="website">

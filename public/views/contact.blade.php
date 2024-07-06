@@ -76,23 +76,23 @@
                     <div class="icon">
                         <i class="icon-placeholder"></i>
                     </div>
-                    <div class="desc" hct-content="address_1" hct-content-type="text" hct-title='آدرس اول'> اتوبان صدر (
-                        شرق به غرب ) - ۳۵ متری قیطریه - خیابان تواضعی - بن بست سوم - پلاک ۱
+                    <div class="desc" hct-content="address_1" hct-content-type="text" hct-title='آدرس اول'>
+                        لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-6">
                     <div class="icon">
                         <i class="icon-mail"></i>
                     </div>
-                    <div class="desc" hct-content="email" hct-content-type="text" hct-title='ایمیل'> info@kitline.com
+                    <div class="desc" hct-content="email" hct-content-type="text" hct-title='ایمیل'> info@abzarmoblmahdi.com
                     </div>
                 </div>
                 <div class="col-xs-12 hidden-xl hidden-lg hidden-md hidden-sm">
                     <div class="icon">
                         <i class="icon-placeholder"></i>
                     </div>
-                    <div class="desc" hct-content="address_2" hct-content-type="text" hct-title='آدرس دوم'> اتوبان صدر (
-                        شرق به غرب ) - ۳۵ متری قیطریه - خیابان تواضعی - بن بست سوم - پلاک ۱
+                    <div class="desc" hct-content="address_2" hct-content-type="text" hct-title='آدرس دوم'>
+                        لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،
                     </div>
                 </div>
             </div>

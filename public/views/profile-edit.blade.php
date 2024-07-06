@@ -127,7 +127,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="form-group">
-                            <label>اشتراک در خبرنامه کیت‌لاین‌</label>
+                            <label>اشتراک در خبرنامه ابزارمبل مهدی(خواجه لو)</label>
                             <div class="radio">
                                 <div class="radio-group">
                                     <input type="radio" name="newsletter" id="yes" value="بله">

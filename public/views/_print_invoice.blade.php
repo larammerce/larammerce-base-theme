@@ -1,13 +1,13 @@
 <div id="factor" class="d-none">
     <div class="container preinvoice factor">
         <div class="row preinovice-header">
-            <div class="col-md-5">فروشگاه اینترنتی لوازم کافه و رستوران</div>
+            <div class="col-md-5">ابزارمبل مهدی(خواجه لو)</div>
             <div class="col-md-2 p-0">
                 <div class="header-factor-title">پیش فاکتور فروش کالا</div>
             </div>
             <div class="col-md-5">
-                <img src="/HCMS-assets/img/logo.svg" class="img-fluid"
-                     alt="فروشگاه اینترنتی لوازم کافه و رستوران"
+                <img src="../HCMS-assets/img/logo.svg" class="img-fluid"
+                     alt="ابزارمبل مهدی(خواجه لو)"
                      style="max-width:135px;">
             </div>
 
@@ -16,8 +16,8 @@
         <div class="row date-row">
             <div class="col-md-6 pr-md-0"> تاریخ:&nbsp;&nbsp;&nbsp;
                 <span class="date-span persian-digit">{{get_current_date()}}</span></div>
-            <div class="col-md-6 numerical-data pl-md-0">kitline.com &nbsp;&nbsp;&nbsp; 021_72113</div>
-            {{--                    <div class="col-md-6pr-md-0"> kitline.com</div>--}}
+            <div class="col-md-6 numerical-data pl-md-0">abzarmoblmahdi.com &nbsp;&nbsp;&nbsp; 021_72113</div>
+            {{--                    <div class="col-md-6pr-md-0"> abzarmoblmahdi.com</div>--}}
         </div>
         <div class="product-list">
             <div class="pd-list-header">

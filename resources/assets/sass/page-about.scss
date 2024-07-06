@@ -110,16 +110,18 @@
   }
   .about-bold-desc {
     padding: 100px 0;
-    background: $mainColor1;
+    background: #3c3c3a;
     .desc-wrapper {
       padding: 0 10%;
       .about-bold-pic {
         position: relative;
-        padding-left: 60px;        border-left: 1px solid $txtColor;
+        padding-left: 60px;
+        border-left: 1px solid $txtColor;
       }
       .desc {
         padding-right: 60px;
-        font-size: 13px;        color: $txtColor;
+        font-size: 13px;
+        color: #ebebeb;
 
         text-align: justify;
       }

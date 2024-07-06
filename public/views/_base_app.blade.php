@@ -3,15 +3,15 @@
 <head>
     <meta charset="utf-8">
 
-    <title>@yield('title')فروشگاه اینترنتی ابزار رستوران کیت‌لاین</title>
+    <title>@yield('title')ابزارمبل مهدی (خواجه لو)</title>
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/HCMS-assets/img/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/HCMS-assets/img/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/HCMS-assets/img/favicon/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/HCMS-assets/img/favicon/logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/HCMS-assets/img/favicon/logo.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/HCMS-assets/img/favicon/logo.png">
     <link rel="manifest" href="/HCMS-assets/img/favicon/site.webmanifest">
     <link rel="mask-icon" href="/HCMS-assets/img/favicon/safari-pinned-tab.svg" color="#fabe3c">
     <meta name="msapplication-TileColor" content="#fabe3c">
-    <meta name="msapplication-TileImage" content="/HCMS-assets/img/favicon/mstile-144x144.png">
+    <meta name="msapplication-TileImage" content="/HCMS-assets/img/favicon/logo.png">
     <meta name="theme-color" content="#fabe3c">
 
     <link rel="icon" href="/HCMS-assets/img/fav.ico" sizes="16x16" type="image/png">

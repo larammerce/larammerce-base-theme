@@ -5,7 +5,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=yes">
     <meta name="google-site-verification" content="3d5HFyIlBaepmfw7WpJCjngHOIp73AN1uxx6t_Gj9uo"/>
-    <title>@yield('title')فروشگاه اینترنتی لوازم رستوران کیت‌لاین</title>
+    <title>@yield('title')ابزار مبل مهدی(خواجه لو)</title>
 
     <meta name="robots" content="index,follow">
     <meta name="googlebot" content="index,follow">
@@ -14,28 +14,28 @@
     <meta name="geo.region" content="iran[-tehran]">
     <meta name="geo.placename" content="Tehran/Tehran">
     <meta name="author" content="HinzaCo, software@hinzaco.com">
-    <meta name="owner" content="Kitline">
+    <meta name="owner" content="abzarmoblmahdi">
     <meta name="topic"
-          content="تجهیزات و راه اندازی فست فود,تجهیزات کافی شاپ,تجهیزات و راه اندازی رستوران,طراحی و تجهیز فست فود">
+          content="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،">
     <meta name="subject"
-          content="تجهیزات و راه اندازی فست فود,تجهیزات کافی شاپ,تجهیزات و راه اندازی رستوران,طراحی و تجهیز فست فود">
+          content="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،">
     <meta name="language" content="fa">
     <meta name="enamad" content="373062"/>
     <meta name="p:domain_verify" content="bf61526dcf8b9cf38cef9ba3cd184fe2"/>
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/HCMS-assets/img/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/HCMS-assets/img/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/HCMS-assets/img/favicon/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/HCMS-assets/img/favicon/logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/HCMS-assets/img/favicon/logo.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/HCMS-assets/img/favicon/logo.png">
     <link rel="manifest" href="/HCMS-assets/img/favicon/site.webmanifest">
     <link rel="mask-icon" href="/HCMS-assets/img/favicon/safari-pinned-tab.svg" color="#fabe3c">
 
     <meta name="msapplication-TileColor" content="#fabe3c">
-    <meta name="msapplication-TileImage" content="/HCMS-assets/img/favicon/mstile-144x144.png">
+    <meta name="msapplication-TileImage" content="/HCMS-assets/img/favicon/logo.png">
     <meta name="theme-color" content="#fabe3c">
 
 
     @yield('meta_tags')
-    <meta property="og:site_name" content="Kitline">
+    <meta property="og:site_name" content="abzarmoblmahdi">
     <meta property="og:locale" content="fa_IR">
     <meta name="generator" content="hinzacms"/>
     <meta name="yn-tag" id="229e5f95-66b3-4969-8fa0-a8e108dc8f31">
@@ -86,8 +86,8 @@
                     <span class="btn-text">دسته‌بندی‌ها</span>
                 </button>
                 <a class="navbar-brand-mobile hidden-xl hidden-lg hidden-md" href="/"
-                   title="فروشگاه لوازم آشپزخانه صنعتی کیت لاین">
-                    <img src="/HCMS-assets/img/logo.svg" alt="فروشگاه لوازم آشپزخانه صنعتی کیت لاین">
+                   title="ابزارمبل مهدی(خواجه لو)">
+                    <img  src="/HCMS-assets/img/logo.svg" height="35px" alt="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،">
                 </a>
                 <ul class="col">
                     @if(is_customer())
@@ -321,8 +321,8 @@
                 </div>
                 <div class="col-lg-2 col-md-3 hidden-sm hidden-xs brand-wrapper order-lg-3 order-md-2">
                     <a class="navbar-brand" href="/" title="صفحه اصلی">
-                        <img src="/HCMS-assets/img/logo.svg" class="img-fluid"
-                             alt="فروشگاه لوازم آشپزخانه صنعتی کیت لاین">
+                        <img style="margin-top: -35px" src="/HCMS-assets/img/logo.svg" class="img-fluid logo-mobile"
+                             alt="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،">
                     </a>
                 </div>
 
@@ -343,8 +343,7 @@
 
 
 <footer class="@yield('footer_class')">
-    <img src="/HCMS-assets/img/pattern.svg" class="pattern" alt="kitline pattern">
-    <img src="/HCMS-assets/img/pattern-mb.svg" class="pattern pattern-mb" alt="kitline pattern">
+<img src="../HCMS-assets/img/Screenshot%202023-12-11%20194729.png" class="pattern" height="120px" alt="abzarmoblmahdi pattern">
 
     <div class="top-footer">
         <div class="container">
@@ -363,23 +362,23 @@
                         </p>
                         <p>
                             ایمیل:
-                            <br/><span>info@kitline.com</span>
+                            <br/><span>info@abzarmoblmahdi.com</span>
                         </p>
                         <ul class="social-networks">
-                            <li><a href="https://instagram.com/kitlinecom/" title="instagram" target="_blank">
+                            <li><a href="https://instagram.com/abzarmoblmahdi/" title="instagram" target="_blank">
                                     <i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                            <li><a href="https://www.facebook.com/Kitline-271999456730079" title="facebook"
+                            <li><a href="https://www.facebook.com/abzarmoblmahdi" title="facebook"
                                    target="_blank">
                                     <i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-                            <li><a href="https://www.linkedin.com/company/kitline/" title="kitline" target="_blank">
+                            <li><a href="https://www.linkedin.com/company/abzarmoblmahdi/" title="abzarmoblmahdi" target="_blank">
                                     <i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-                            <li><a href="https://www.youtube.com/channel/UCRKYfh5uL7VrbWuoMiqeMaA" title="kitline"
+                            <li><a href="https://www.youtube.com/channel/UCRKYfh5uL7VrbWuoMiqeMaA" title="abzarmoblmahdi"
                                    target="_blank">
                                     <i class="fa fa-youtube-play" aria-hidden="true"></i></a>
                             </li>
-                            <li><a href="https://www.pinterest.com/kitlinecom" title="kitline" target="_blank">
+                            <li><a href="https://www.pinterest.com/abzarmoblmahdicom" title="abzarmoblmahdi" target="_blank">
                                     <i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                            <li><a href="https://virgool.io/@kitline" title="kitline" target="_blank">
+                            <li><a href="https://virgool.io/@abzarmoblmahdi" title="abzarmoblmahdi" target="_blank">
                                     <svg width="12px" height="16px" viewBox="0 0 204 304">
                                         <style type="text/css">
                                             .st0 {
@@ -409,7 +408,7 @@
                                     </svg>
                                 </a>
                             </li>
-                            <li><a href="https://www.aparat.com/kitline" title="kitline" target="_blank">
+                            <li><a href="https://www.aparat.com/abzarmoblmahdi" title="abzarmoblmahdi" target="_blank">
                                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
                                          xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                          viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;"
@@ -453,8 +452,8 @@
                         @endforeach
                     </ul>
                     {{--<div class="newsletter">
-                        <div class="title">عضویت در خبرنامه کیت لاین</div>
-                        <div class="motto">از تخفیف ها و جدیدترین های کیت لاین با خبر شوید !</div>
+                        <div class="title">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،</div>
+                        <div class="motto">از تخفیف ها و جدیدترین های ابزارمبل مهدی(خواجه لو) با خبر شوید !</div>
                         <form class="subscribe-form">
                             <div class="form-group">
                                 <input type="email" class="form-control" placeholder="ایمیل خود را وارد نمایید...">
@@ -476,9 +475,9 @@
                              onclick="window.open('https://logo.samandehi.ir/Verify.aspx?id=133189&p=rfthxlaoxlaorfthmcsipfvl',
                                  'Popup','toolbar=no, scrollbars=no, location=no, statusbar=no, menubar=no, resizable=0, width=450, height=630, top=30')"
                              alt="logo-samandehi"
-                             src="https://logo.samandehi.ir/logo.aspx?id=133189&p=nbpdqftiqftinbpdaqgwbsiy"/>
+                             src="HCMS-assets/img/samandehi_.png"/>
                         <img src="/HCMS-assets/img/ecunion-logo.png" alt=""
-                             onclick="window.open('https://ecunion.ir/verify/kitline.com?token=75449105c7a07823c2b9', 'Popup',
+                             onclick="window.open('https://ecunion.ir/verify/abzarmoblmahdi.com?token=75449105c7a07823c2b9', 'Popup',
                                  'toolbar=no, location=no, statusbar=no, menubar=no, scrollbars=1, resizable=0, width=580, height=600, top=30')"
                              style="cursor:pointer">
                     </div>
@@ -539,7 +538,8 @@
             </div>
 
             <div class="copyright">
-                KITLINE.COM © ALL RIGHTS RESERVED
+
+                ABZARMOBLMAHDI.COM © ALL RIGHTS RESERVED
             </div>
         </div>
     </div>
@@ -590,7 +590,7 @@
     gtag('config', 'UA-121055133-1');
 </script>
 
-<!-- Hotjar Tracking Code for https://kitline.com/ -->
+<!-- Hotjar Tracking Code for https://abzarmoblmahdi.com/ -->
 <script>
     (function (h, o, t, j, a, r) {
         h.hj = h.hj || function () {

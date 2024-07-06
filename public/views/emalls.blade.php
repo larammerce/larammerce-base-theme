@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <meta name="google-site-verification" content="3d5HFyIlBaepmfw7WpJCjngHOIp73AN1uxx6t_Gj9uo"/>
 
-    <title>لیست محصولات فروشگاه اینترنتی لوازم رستوران کیت لاین</title>
+    <title>لیست محصولات فروشگاه اینترنتی ابزارمبل مهدی(خواجه لو)</title>
 
 
     <meta name="robots" content="index,follow">
@@ -16,28 +16,28 @@
     <meta name="geo.region" content="iran[-tehran]">
     <meta name="geo.placename" content="Tehran/Tehran">
     <meta name="author" content="HinzaCo, software@hinzaco.com">
-    <meta name="owner" content="Kitline">
+    <meta name="owner" content="abzarmoblmahdi">
     <meta name="topic"
-          content="تجهیزات و راه اندازی فست فود,تجهیزات کافی شاپ,تجهیزات و راه اندازی رستوران,طراحی و تجهیز فست فود">
+          content="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،">
     <meta name="subject"
-          content="تجهیزات و راه اندازی فست فود,تجهیزات کافی شاپ,تجهیزات و راه اندازی رستوران,طراحی و تجهیز فست فود">
+          content="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،">
     <meta name="language" content="fa">
     <meta name="enamad" content="373062"/>
     <meta name="p:domain_verify" content="bf61526dcf8b9cf38cef9ba3cd184fe2"/>
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/HCMS-assets/img/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/HCMS-assets/img/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/HCMS-assets/img/favicon/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/HCMS-assets/img/favicon/logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/HCMS-assets/img/favicon/logo.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/HCMS-assets/img/favicon/logo.png">
     <link rel="manifest" href="/HCMS-assets/img/favicon/site.webmanifest">
     <link rel="mask-icon" href="/HCMS-assets/img/favicon/safari-pinned-tab.svg" color="#fabe3c">
 
     <meta name="msapplication-TileColor" content="#fabe3c">
-    <meta name="msapplication-TileImage" content="/HCMS-assets/img/favicon/mstile-144x144.png">
+    <meta name="msapplication-TileImage" content="/HCMS-assets/img/favicon/logo.png">
     <meta name="theme-color" content="#fabe3c">
 
 
     @yield('meta_tags')
-    <meta property="og:site_name" content="Kitline">
+    <meta property="og:site_name" content="abzarmoblmahdi">
     <meta property="og:locale" content="fa_IR">
     <meta name="generator" content="hinzacms"/>
     <meta name="yn-tag" id="229e5f95-66b3-4969-8fa0-a8e108dc8f31">
@@ -89,7 +89,7 @@
     <div class="aspNetHidden">
         <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value=""/>
     </div>
-    <h1>لیست محصولات فروشگاه اینترنتی لوازم رستوران کیت لاین</h1>
+    <h1>لیست محصولات فروشگاه اینترنتی ابزارمبل مهدی(خواجه لو)</h1>
     <?php $product_roots_list = get_products_root_list_with_type(3); // 3 product type
     ?>
     @if($product_roots_list != null)
@@ -148,7 +148,7 @@
     gtag('config', 'UA-121055133-1');
 </script>
 
-<!-- Hotjar Tracking Code for https://kitline.com/ -->
+<!-- Hotjar Tracking Code for https://abzarmoblmahdi.com/ -->
 <script>
     (function (h, o, t, j, a, r) {
         h.hj = h.hj || function () {

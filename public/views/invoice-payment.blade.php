@@ -175,7 +175,7 @@
                 @if($invoice->shipment_cost > 0)
                     <div class="info-row">
                         <div class="icon"><i class="icon-accesories" aria-hidden="true"></i></div>
-                        <div>این سفارش از طریق تحويل کیت لاین با مبلغ
+                        <div>این سفارش از طریق تحويل ابزارمبل مهدی(خواجه لو) با مبلغ
                             <span class="price-data">{{$invoice->shipment_cost / 10}}</span> تومان به شما تحویل داده
                             خواهد شد.(ارسال رايگان سفارش‌های بالاتر از
                             <span class="price-data">{{get_minimum_purchase_free_shipment()/10}}</span>
@@ -223,7 +223,7 @@
                 @if($invoice->sum >= get_max_transaction_amount())
                     <div class="alert alert-max">
                         <strong>نکته :</strong> مبلغ خرید شما بالای ۱۰۰ میلیون تومان است. لطفا جهت ثبت نهایی سفارش خود با
-                        پشتیبانی کیت لاین
+                        پشتیبانی ابزارمبل مهدی(خواجه لو)
                         به شماره ۷۲۱۱۳-۰۲۱ تماس حاصل فرمایید.
                     </div>
                 @endif
