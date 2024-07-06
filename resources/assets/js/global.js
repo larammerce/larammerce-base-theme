@@ -38,7 +38,7 @@ require(['jquery', 'swiper', 'bootstrap', 'square_box', 'fix_with_to', 'article_
             }
         }
 
-        if ((window.location.href).includes('demo.kitline.com'))
+        if ((window.location.href).includes('demo.larammerce.com'))
             checkUserLoggedIn();
 
         function checkUserLoggedIn() {

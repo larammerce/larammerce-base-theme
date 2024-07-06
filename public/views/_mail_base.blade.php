@@ -38,10 +38,10 @@
             <table width="480" cellspacing="0" cellpadding="0" border="0" class="main"
                    style="border-collapse: collapse; margin-left: 30px; margin-right: 30px;">
                 <tr>
-                    <td style="font-size:10px;color:#3C3C3A;text-align:right;direction:rtl;">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،
+                    <td style="font-size:10px;color:#3C3C3A;text-align:right;direction:rtl;">کیت‌لاین، ابزار بهتر، آشپزی
                         بهتر
                     </td>
-                    <td style="font-size:10px;color:#3C3C3A;text-align:left;">www.abzarmoblmahdi.com</td>
+                    <td style="font-size:10px;color:#3C3C3A;text-align:left;">www.kitline.com</td>
                 </tr>
             </table>
         </td>
@@ -59,9 +59,9 @@
                                style="border-collapse: collapse; margin-top: 0;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;overflow: hidden;-webkit-box-shadow: #dadada 3px 5px 20px 0px;-moz-box-shadow: #dadada 3px 5px 20px 0px;box-shadow: #dadada 3px 5px 20px 0px;">
                             <tr style="background:#52524F;padding:30px">
                                 <td>
-                                    <img src="https://abzarmoblmahdi.com/HCMS-assets/img/logo-single-color.png"
+                                    <img src="https://kitline.com/HCMS-assets/img/logo-single-color.png"
                                          style="display: table;width: 150px;max-width: 150px;margin:40px auto 15px;"
-                                         alt="abzarmoblmahdi">
+                                         alt="kitline">
                                     <p style="color: #fff; font-size: 20px; font-weight: bold; text-align: center; margin-bottom:30px; font-weight: lighter;">@yield('subject')</p>
                                 </td>
                             </tr>
@@ -83,7 +83,7 @@
                                                 </p>
 
                                                 <p style="font-size: 16px; font-weight: bold; line-height: 22px; margin: 10px 0 0; padding: 0;">
-                                                    تیم پشتیبان ابزارمبل مهدی(خواجه لو)
+                                                    تیم پشتیبان کیت لاین
                                                 </p>
 
 
@@ -118,7 +118,7 @@
                                            style="border-collapse: collapse; margin: 30px 0;">
                                         <tr>
                                             <td align="right" width="30" style="border-collapse: collapse;">
-                                                <a href="https://www.facebook.com/abzarmoblmahdi"
+                                                <a href="https://www.facebook.com/Kitline-271999456730079"
                                                    style="color: #000001; text-decoration: none;">
                                                     <img src="http://email-media.s3.amazonaws.com/indiegogo/assets/facebook.png"
                                                          width="25" style="display: block; border: none;"></a>
@@ -142,7 +142,7 @@
                                                          width="25" style="display: block; border: none;"></a>
                                             </td>
                                             <td align="right" width="30" style="border-collapse: collapse;">
-                                                <a href="mailto:support@abzarmoblmahdi.com"
+                                                <a href="mailto:support@kitline.com"
                                                    style="color: #000001; text-decoration: none;">
                                                     <img src="http://email-media.s3.amazonaws.com/indiegogo/assets/mail.png"
                                                          width="25" style="display: block; border: none;"></a>
@@ -150,7 +150,8 @@
                                         </tr>
                                     </table>
                                     <p style="font-size: 13px; color: #000001; line-height: 18px; margin: 0; padding: 0;">
-                                        لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،</p>
+                                        اتوبان صدر ( شرق به غرب ) - ۳۵ متری قیطریه - خیابان تواضعی - بن بست سوم - پلاک
+                                        ۱</p>
                                 </td>
                             </tr>
                         </table>
@@ -163,7 +164,7 @@
 
 <center>
     <p style="font-size: 13px; font-family: Arial, sans-serif; color: #000001;">
-        <a href="https://abzarmoblmahdi.com/contact-us#unsubscribe" style="color: #000001;">
+        <a href="https://kitline.com/contact-us#unsubscribe" style="color: #000001;">
             ایمیل اشتباه دریافت کرده اید ؟
         </a>
     </p>

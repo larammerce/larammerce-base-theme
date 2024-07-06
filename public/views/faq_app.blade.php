@@ -24,9 +24,9 @@
             <hr/>
             <div class="desc" >
                 <strong class="question">دفتر مرکزی:</strong>
-                <p class="number" hct-content="center_office_phone_number" hct-content-type="text" hct-title='تلفن دفتر مرکزی'>۰۲۱-۲۲۶۹۴۹۹۹</p>
+                <p class="number" hct-content="center_office_phone_number" hct-content-type="text" hct-title='تلفن دفتر مرکزی'>۰۲۱-۰۰۰۰۰۰۰۰</p>
                 <strong class="question">مرکز امور مشتریان:</strong>
-                <p class="number" hct-content="customers_office_phone_number" hct-content-type="text" hct-title='تلفن مرکز امور مشتریان'>۰۲۱-۷۲۱۱۳</p>
+                <p class="number" hct-content="customers_office_phone_number" hct-content-type="text" hct-title='تلفن مرکز امور مشتریان'>۰۲۱-۰۰۰۰۰</p>
                 <strong class="question">زمان پاسخگویی:</strong>
                 <p hct-content="opening_time" hct-content-type="text" hct-title='زمان پاسخگویی:'>
                     شنبه تا چهارشنبه ۸:۳۰ تا ۲۲  <br>پنجشنبه ها۸:۳۰ تا ۱۸:۳۰

@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>@yield('title')ابزارمبل مهدی (خواجه لو)</title>
+    <title>@yield('title')larammerce</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/HCMS-assets/img/favicon/logo.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/HCMS-assets/img/favicon/logo.png">
@@ -21,8 +21,8 @@
     <link rel="icon" href="/HCMS-assets/img/fav.ico" sizes="192x192" type="image/png">
 
     <!-- External CSS -->
-    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-11-23.css">
-    <link rel="stylesheet" href="/HCMS-assets/css/app-23-11-23.css">
+    <link rel="stylesheet" href="/HCMS-assets/css/vendor-23-12-25.css">
+    <link rel="stylesheet" href="/HCMS-assets/css/app-23-12-25.css">
 
 </head>
 <body data-direction="rtl">
@@ -53,7 +53,7 @@
 </div>
 
 
-<script data-main="/HCMS-assets/js/all-23-11-23" src="/HCMS-assets/js/lib/require.js"></script>
+<script data-main="/HCMS-assets/js/all-23-12-25" src="/HCMS-assets/js/lib/require.js"></script>
 
 @yield('extra_js')
 
