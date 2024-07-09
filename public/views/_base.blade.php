@@ -23,6 +23,7 @@
     <meta name="enamad" content="373062"/>
     <meta name="p:domain_verify" content="bf61526dcf8b9cf38cef9ba3cd184fe2"/>
 
+
     <link rel="apple-touch-icon" sizes="180x180" href="/HCMS-assets/img/favicon/logo.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/HCMS-assets/img/favicon/logo.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/HCMS-assets/img/favicon/logo.png">
@@ -87,7 +88,7 @@
                 </button>
                 <a class="navbar-brand-mobile hidden-xl hidden-lg hidden-md" href="/"
                    title="ابزارمبل مهدی(خواجه لو)">
-                    <img  src="/HCMS-assets/img/logo.svg" height="35px" alt="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،">
+                    <img  src="/HCMS-assets/img/logo.svg" height="35px" alt="ابزار مبل مهدی">
                 </a>
                 <ul class="col">
                     @if(is_customer())
@@ -121,11 +122,11 @@
                             </a>
                         </li>
                     @else
-                        <li>
-                            <a href="{{route('customer-auth.show-auth', 'mobile')}}" title="ورود یا ثبت‌نام">
-                                <span>ورود یا ثبت‌نام</span>
-                            </a>
-                        </li>
+{{--                        <li>--}}
+{{--                            <a href="{{route('customer-auth.show-auth', 'mobile')}}" title="ورود یا ثبت‌نام">--}}
+{{--                                <span>ورود یا ثبت‌نام</span>--}}
+{{--                            </a>--}}
+{{--                        </li>--}}
                     @endif
                     @if(config("cms.general.site.enable_directory_location"))
                         <li class="location-link">
@@ -320,9 +321,9 @@
                     </form>
                 </div>
                 <div class="col-lg-2 col-md-3 hidden-sm hidden-xs brand-wrapper order-lg-3 order-md-2">
-                    <a class="navbar-brand" href="/" title="صفحه اصلی">
-                        <img style="margin-top: -35px" src="/HCMS-assets/img/logo.svg" class="img-fluid logo-mobile"
-                             alt="لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است،">
+                    <a  class="navbar-brand" href="/" title="صفحه اصلی">
+                        <img style="margin-top: -35px;width: 80%"  src="/HCMS-assets/img/logo.svg" class="img-fluid logo-mobile"
+                             alt="ابزار مبل مهدی">
                     </a>
                 </div>
 
