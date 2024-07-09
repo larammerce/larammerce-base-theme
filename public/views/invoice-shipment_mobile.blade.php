@@ -118,7 +118,7 @@
                         </div>
                     </div>
                     <div class="shipping-content">
-                        <h4>تحویل کیت لاین</h4>
+                        <h4>تحویل لارامرس</h4>
                         <div class="desc">(برای بالای
                             <span
                                     class="price-data">{{get_minimum_purchase_free_shipment()/10}}</span>
@@ -229,8 +229,8 @@
                 @if($invoice->sum >= get_max_transaction_amount())
                     <div class="alert alert-max">
                         <strong>نکته :</strong> مبلغ خرید شما بالای ۱۰۰ میلیون تومان است. لطفا جهت ثبت نهایی سفارش خود با
-                        پشتیبانی کیت لاین
-                        به شماره ۷۲۱۱۳-۰۲۱ تماس حاصل فرمایید.
+                        پشتیبانی لارامرس
+                        به شماره ۰۰۰۰۰-۰۲۱ تماس حاصل فرمایید.
                     </div>
                 @endif
                 <div class="button-wrapper">

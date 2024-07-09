@@ -1,7 +1,6 @@
 footer {
   margin-top: 60px;
   background: $bodyBackground;
-  border-top: 30px solid $mainColor1;
 
   .pattern {
     margin: -30px auto 0;
@@ -10,6 +9,11 @@ footer {
       height:50px;
       width:auto;
     }*/
+    @media (min-width: 575px) and (max-width: 991px) {
+
+      width: 100%;
+      height: 90px;
+    }
     @media(max-width: 575.98px) {
       display: none;
     }

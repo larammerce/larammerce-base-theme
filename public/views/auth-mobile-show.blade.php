@@ -30,7 +30,7 @@
                 @endif
                 <div class="form-group">
                     <label for="main_phone">
-                        برای ورود‌ یا ثبت‌نام
+                        برای ورود‌ یا ثبت‌ نام
                         <b> شماره موبایل </b>
                         خود را وارد کنید.
                         <span class="required">*</span>
